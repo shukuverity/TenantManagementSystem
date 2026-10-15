@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TenantManagementSys</string>
+    <string name="no_tenants_yet">No tenants yet. Add one from the Dashboard.</string>
+</resources>
